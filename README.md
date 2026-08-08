@@ -1,6 +1,5 @@
 # Hey, I'm Jean
 
-<img src="gif-ippo.gif" min-width="350px" max-width="350px" width="350px" align="right" style="padding-right: 30;" autoplay>
 
 <div justify-content="space-between"> 
   <a href="https://github.com/jeancarloslr">
